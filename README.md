@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jobin Macwan</h1>
-<h3 align="center">A passionate and self-taught iOS developer from India</h3>
+<h3 align="center">A passionate and self-taught iOS developer</h3>
 
 - 💬 Ask me about **iOS Development**
 
