@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **iOS Development**
 
-- 📫 How to reach me **macwanjobin1525@gmail.com**
+- 📫 Reach me at **macwanjobin1525@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
